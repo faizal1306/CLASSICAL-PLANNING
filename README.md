@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Name: Mohameed Faizal M
-# reg no: 212223243002
+## Name: Mohameed Faizal M
+## reg no: 212223243002
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
